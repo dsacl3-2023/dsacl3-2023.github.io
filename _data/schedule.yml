@@ -7,6 +7,9 @@
   dates:
     Oct 23:
       topic: introduction / administrivia
+      links:
+        slides: slides/introduction.pdf
+        8up: slides/introduction-handout.pdf
     Oct 25:
       topic: recap
     Oct 27:
