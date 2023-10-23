@@ -51,8 +51,8 @@ before the beginning of the course.
 | **Lectures**      | Mon 14:00-16:00, Seminarraum 301 (Lothar-Meyer-Bau) |
 |                   | Wed 14:00-16:00, Seminarraum 301 (Lothar-Meyer-Bau) |
 | **Computer lab**  | Fri 14:00-18:00, Seminarraum 301 (Lothar-Meyer-Bau) |
-| **First Lecture** | October 25|
+| **First Lecture** | October 23|
 | **Lecturer**      | Çağrı Çöltekin [\<ccoltekin@sfs.uni-tuebingen.de\>](mailto:ccoltekin@sfs.uni-tuebingen.de) |
-| **Tutors**        | TBA |
+| **Tutors**        | Darja Jepifanova and Giulio Cusenza |
 
 
