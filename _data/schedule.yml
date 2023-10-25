@@ -12,8 +12,13 @@
         8up: slides/introduction-handout.pdf
     Oct 25:
       topic: recap
+      links:
+        slides: slides/recap.pdf
+        8up: slides/recap-handout.pdf
     Oct 27:
-      topic: Python intro
+      topic: Assignment 0
+      links:
+        a0: https://dsacl3-2023.github.io/a0
 - week: "03"
   dates:
     Oct 30:
