@@ -32,6 +32,9 @@
   dates:
     Nov 06:
       topic: common algorithmic patterns
+      links:
+        slides: slides/patterns.pdf
+        8up: slides/patterns-handout.pdf
     Nov 08:
       topic: sorting
     Nov 10:
