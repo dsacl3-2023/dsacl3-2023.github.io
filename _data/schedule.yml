@@ -37,6 +37,9 @@
         8up: slides/patterns-handout.pdf
     Nov 08:
       topic: sorting
+      links:
+        slides: slides/sorting.pdf
+        8up: slides/sorting-handout.pdf
     Nov 10:
       topic: lab
 - week: "05"
