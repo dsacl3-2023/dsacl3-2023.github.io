@@ -18,7 +18,7 @@
     Oct 27:
       topic: Assignment 0
       links:
-        a0: https://dsacl3-2023.github.io/a0
+        description: https://dsacl3-2023.github.io/a0
 - week: "03"
   dates:
     Oct 30: postponed
@@ -41,7 +41,9 @@
         slides: slides/sorting.pdf
         8up: slides/sorting-handout.pdf
     Nov 10:
-      topic: lab
+      topic: Assignment 1
+      links:
+        description: https://dsacl3-2023.github.io/a1
 - week: "05"
   dates:
     Nov 13:
