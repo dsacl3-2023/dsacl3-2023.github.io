@@ -47,9 +47,12 @@
 - week: "05"
   dates:
     Nov 13:
-      topic: sorting
-    Nov 15:
       topic: trees
+      links:
+        slides: slides/trees.pdf
+        8up: slides/trees-handout.pdf
+    Nov 15:
+      topic: "heaps, priority queues"
     Nov 17:
       topic: lab
 - week: "06"
