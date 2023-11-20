@@ -58,18 +58,27 @@
         8up: slides/pq-heap-handout.pdf
     Nov 17:
       topic: lab
+      topic: Assignment 2
+      links:
+        description: https://dsacl3-2023.github.io/a2
 - week: "06"
   dates:
     Nov 20:
-      topic: "heaps, priority queues"
-    Nov 22:
       topic: "graphs: intro"
+      links:
+        slides: slides/graphs-intro.pdf
+        8up: slides/graphs-intro-handout.pdf
+    Nov 22:
+      topic: "graphs: traversals"
+      links:
+        slides: slides/graph-traversal.pdf
+        8up: slides/graph-traversal-handout.pdf
     Nov 24:
       topic: lab
 - week: "07"
   dates:
     Nov 27:
-      topic: "graphs: traversals"
+      topic: "directed graphs"
     Nov 29:
       topic: "directed graphs"
     Dec 01:
