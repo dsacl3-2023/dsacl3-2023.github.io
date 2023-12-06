@@ -91,6 +91,8 @@
         8up: slides/shortest-paths-handout.pdf
     Dec 01:
       topic: Assignment 4
+      links:
+        description: https://dsacl3-2023.github.io/a4
 - week: "08"
   dates:
     Dec 04:
@@ -99,7 +101,10 @@
         slides: slides/mst.pdf
         8up: slides/mst-handout.pdf
     Dec 06:
-      topic: "graphs: MST"
+      topic: maps / hashes
+      links:
+        slides: slides/hashing.pdf
+        8up: slides/hashing-handout.pdf
     Dec 08:
       topic: Assignment 5
 - week: "09"
