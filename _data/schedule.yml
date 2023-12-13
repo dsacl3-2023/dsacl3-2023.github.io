@@ -124,6 +124,9 @@
   dates:
     Dec 18:
       topic: edit distance
+      links:
+        slides: slides/edit-distance.pdf
+        8up: slides/edit-distance-handout.pdf
     Dec 20:
       topic: tries
     Dec 22:
