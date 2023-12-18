@@ -129,6 +129,9 @@
         8up: slides/edit-distance-handout.pdf
     Dec 20:
       topic: tries
+      links:
+        slides: slides/tries.pdf
+        8up: slides/tries-handout.pdf
     Dec 22:
       topic: Assignment 7
 - week: "11"
