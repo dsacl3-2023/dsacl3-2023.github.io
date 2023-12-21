@@ -120,6 +120,8 @@
       topic: string matching
     Dec 15:
       topic: Assignment 6
+      links:
+        description: https://dsacl3-2023.github.io/a5
 - week: "10"
   dates:
     Dec 18:
@@ -133,7 +135,7 @@
         slides: slides/tries.pdf
         8up: slides/tries-handout.pdf
     Dec 22:
-      topic: Assignment 7
+      topic: Assignment 6
 - week: "11"
   dates:
     Dec 25: sem. break
@@ -151,7 +153,7 @@
     Jan 10:
       topic: FSA determinization / minimization
     Jan 12:
-      topic: lab
+      topic: Assignment 8
 - week: "14"
   dates:
     Jan 15:
@@ -159,7 +161,7 @@
     Jan 17:
       topic: FSTs
     Jan 19:
-      topic: lab
+      topic: Assignment 9
 - week: "15"
   dates:
     Jan 22:
