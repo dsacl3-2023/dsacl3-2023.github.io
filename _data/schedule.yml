@@ -150,6 +150,9 @@
   dates:
     Jan 08:
       topic: FSA intro
+      links:
+        slides: slides/fsa.pdf
+        8up: slides/fsa-handout.pdf
     Jan 10:
       topic: FSA determinization / minimization
     Jan 12:
