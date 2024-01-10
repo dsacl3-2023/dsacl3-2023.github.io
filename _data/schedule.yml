@@ -155,6 +155,9 @@
         8up: slides/fsa-handout.pdf
     Jan 10:
       topic: FSA determinization / minimization
+      links:
+        slides(d): slides/fsa-determinization-handout.pdf
+        s8up(d): lides/fsa-determinization.pdf
     Jan 12:
       topic: Assignment 8
 - week: "14"
