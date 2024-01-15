@@ -156,16 +156,21 @@
     Jan 10:
       topic: FSA determinization / minimization
       links:
-        slides(d): slides/fsa-determinization-handout.pdf
-        s8up(d): lides/fsa-determinization.pdf
+        slides(d): slides/fsa-determinization.pdf
+        s8up(d): slides/fsa-determinization-handout.pdf
+        slides(m): slides/fsa-minimization.pdf
+        s8up(m): slides/fsa-minimization-handout.pdf
     Jan 12:
       topic: Assignment 8
 - week: "14"
   dates:
     Jan 15:
-      topic: FSA and regular languages
-    Jan 17:
       topic: FSTs
+      links:
+        slides: slides/fst.pdf
+        8up: slides/fst-handout.pdf
+    Jan 17:
+      topic: FSA and regular languages
     Jan 19:
       topic: Assignment 9
 - week: "15"
