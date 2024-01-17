@@ -171,6 +171,9 @@
         8up: slides/fst-handout.pdf
     Jan 17:
       topic: FSA and regular languages
+      links:
+        slides: slides/fst-regular.pdf
+        8up: slides/fst-regular-handout.pdf
     Jan 19:
       topic: Assignment 9
 - week: "15"
