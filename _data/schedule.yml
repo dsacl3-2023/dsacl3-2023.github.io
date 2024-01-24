@@ -180,8 +180,16 @@
   dates:
     Jan 22:
       topic: "CFG Parsing: Intro"
+      links:
+        slides: slides/parsing-intro.pdf
+        8up: slides/parsing-intro-handout.pdf
     Jan 24:
       topic: CKY & Earley
+      links:
+        cky: slides/cky.pdf
+        cky-handout: slides/cky-handout.pdf
+        earley: slides/earley.pdf
+        earley-handout: slides/earley-handout.pdf
     Jan 26:
       topic: lab
 - week: "16"
