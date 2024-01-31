@@ -121,7 +121,7 @@
     Dec 15:
       topic: Assignment 6
       links:
-        description: https://dsacl3-2023.github.io/a5
+        description: https://dsacl3-2023.github.io/a6
 - week: "10"
   dates:
     Dec 18:
@@ -162,6 +162,8 @@
         s8up(m): slides/fsa-minimization-handout.pdf
     Jan 12:
       topic: Assignment 8
+      links:
+        description: https://dsacl3-2023.github.io/a7
 - week: "14"
   dates:
     Jan 15:
@@ -176,6 +178,8 @@
         8up: slides/fsa-regular-handout.pdf
     Jan 19:
       topic: Assignment 9
+      links:
+        description: https://dsacl3-2023.github.io/a7
 - week: "15"
   dates:
     Jan 22:
@@ -191,15 +195,20 @@
         earley: slides/earley.pdf
         earley-handout: slides/earley-handout.pdf
     Jan 26:
-      topic: lab
+      topic: Assignment 9
 - week: "16"
   dates:
     Jan 29:
       topic: Dependency parsing
+      links:
+        slides: slides/dependency-parsing.pdf
+        8up: slides/dependency-parsing-handout.pdf
     Jan 31:
       topic: Dependency parsing
     Feb 02:
-      topic: lab
+      topic: Exam preparation / finite-state morphology
+      links:
+        description: https://dsacl3-2023.github.io/fst-morphology
 - week: "17"
   dates:
     Feb 05:
